@@ -18,6 +18,7 @@
 	<link rel="stylesheet" href="<?php echo s($styleFile); ?>" type="text/css" />
 	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/<?php echo s($jQueryVersion); ?>/jquery.min.js"></script>
 	<script type="text/javascript" src="<?php echo $path; ?>/tweets.js"></script>
+	<script type="text/javascript" src="<?php echo $path; ?>/extensions/bidi_tweets.js"></script>
 </head>
 <body>
 	<div id="container">
